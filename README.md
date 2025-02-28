@@ -10,7 +10,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   https://github.com/your-username/your-repo.git](https://github.com/arunmauryaosm/pokemon.git
+   https://github.com/arunmauryaosm/pokemon.git
 2. Navigate into the project directory:
    ```sh
    cd pokemon
