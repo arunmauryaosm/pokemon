@@ -10,4 +10,15 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/your-username/your-repo.git](https://github.com/arunmauryaosm/pokemon.git
+   once it's done.
+2. Navigate into the project directory:
+   ```sh
+   cd pokemon
+3. Install dependencies
+   ```sh
+   npm install
+4. Run the project
+   ```sh
+   npm run dev
+
