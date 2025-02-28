@@ -11,7 +11,6 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    https://github.com/your-username/your-repo.git](https://github.com/arunmauryaosm/pokemon.git
-   once it's done.
 2. Navigate into the project directory:
    ```sh
    cd pokemon
